@@ -46,18 +46,32 @@ I'm a passionate web developer who loves creating interactive and aesthetic webs
 yash.cod.in/
 │
 ├── index.html
+
 ├── style.css
+
 ├── script.js
+
 ├── README.md
+
 ├── images/
+
 │ ├── h1.png
+
 │ ├── h2.png
+
 │ ├── h3.png
+
+
 │ ├── h4.png
+
 │ ├── h5.png
+
 │ ├── h6.png
+
 │ ├── h7.png
+
 │ ├── h9.png
+
 │ └── logo1.png
 
 ---
@@ -65,6 +79,7 @@ yash.cod.in/
 📬 Contact Me
 Want to collaborate or just say hi?
 📧 yashq8077@gmail.com
+
 🔗 LinkedIn- https://www.linkedin.com/in/yash-gupta-795417315/
 
 ---
@@ -77,4 +92,5 @@ Feel free to fork it and make it your own!
 
 💡 Note
 This is Task-04 of my Prodigy Infotech internship: “Build and Deploy a Personal Portfolio Website”.
+
 
